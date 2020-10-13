@@ -1,11 +1,13 @@
 /* Feel free to modify anything in this file.*/
 html body {
-	background-color: #ecedd5;
+  background-color: #ecedd5;
+  font: normal 14px/1.9em "Inter", "Source Sans Pro","Helvetica Neue", Arial, sans-serif;
 }
 
 header {
 	padding-left: 40px;
-	padding-top: 20px;
+  padding-top: 20px;
+  text-align: center;
 }
 
 .vendor-wrapper {
@@ -16,13 +18,13 @@ header {
 }
 
 .vendor-photo {
-	max-width: 200px;
+	max-width: 400px;
 	max-height: 150px;
-	padding-right: 20px;
+  padding-right: 20px;
 }
 
 .vendor-book-button {
-	font-size: 2em;
+  font-size: 2em;
 }
 
 .content-pane {
